@@ -93,4 +93,4 @@ Este terminal opera inteiramente no lado do cliente (Client-side).
 Nenhum dado financeiro é enviado para servidores externos.  
 Todas as informações são armazenadas localmente no navegador.
 
-Projeto desenvolvido para fins de organização financeira e simulação de progresso de ativos.
+Projeto desenvolvido para fins de organização financeira e simulação de progresso de ativos por Hyago Santos
