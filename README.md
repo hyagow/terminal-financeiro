@@ -1,7 +1,7 @@
 # Asset Progression Terminal 📈
 
 Asset Progression Terminal é um terminal de gestão e progressão de ativos financeiros desenvolvido com React e Tailwind CSS.  
-O projeto foi desenhado para investidores que procuram uma interface sofisticada, em estilo Neon / Terminal, para monitorizar o crescimento do capital através de uma matriz de aportes estratégicos.
+O projeto foi desenhado para investidores que procuram uma interface sofisticada, em estilo Neon / Terminal, para monitorizar o crescimento do capital através de uma matriz de aportes estratégicos, para sua organização capital.
 
 ---
 
