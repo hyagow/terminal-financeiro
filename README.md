@@ -10,7 +10,7 @@ O projeto foi desenhado para investidores que procuram uma interface sofisticada
 - Matriz de Aportes Estratégicos  
   Visualização em grelha para consolidação de aportes baseada em unidades de valor, com click selector.
 
-- Gestão de Liquidez  
+- Gestão de Liquidez:
   Sistema de injeção de capital para gestão do fluxo de caixa disponível.
 
 - Análise Preditiva  
