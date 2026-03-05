@@ -5,7 +5,7 @@ O projeto foi desenhado para investidores que procuram uma interface sofisticada
 
 ---
 
-## 🚀 Funcionalidades
+## 🚀 Funcionalidades:
 
 - Matriz de Aportes Estratégicos  
   Visualização em grelha para consolidação de aportes baseada em unidades de valor, com click selector.
