@@ -27,7 +27,7 @@ O projeto foi desenhado para investidores que procuram uma interface sofisticada
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas:
 
 - React.js — Biblioteca principal da interface  
 - Vite — Build tool ultra-rápida  
@@ -37,7 +37,7 @@ O projeto foi desenhado para investidores que procuram uma interface sofisticada
 
 ---
 
-## 📦 Como Instalar e Rodar
+## 📦 Como Instalar e Rodar:
 
 Siga os passos abaixo para executar o projeto localmente ou no Google Cloud Shell.
 
