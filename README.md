@@ -16,13 +16,13 @@ O projeto foi desenhado para investidores que procuram uma interface sofisticada
 - Análise Preditiva:
   Algoritmo que sugere o melhor índice de aporte com base na liquidez atual.
 
-- Persistência de Dados  
+- Persistência de Dados:
   Integração com LocalStorage para salvamento automático dos dados no navegador.
 
-- Interface Adaptável  
+- Interface Adaptável:
   Suporte completo para Dark Mode (Neon Blue) e Light Mode.
 
-- Monitorização de Performance  
+- Monitorização de Performance:
   Cálculo em tempo real da taxa de conclusão, gap de objetivo e património total.
 
 ---
