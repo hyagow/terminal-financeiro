@@ -13,7 +13,7 @@ O projeto foi desenhado para investidores que procuram uma interface sofisticada
 - Gestão de Liquidez:
   Sistema de injeção de capital para gestão do fluxo de caixa disponível.
 
-- Análise Preditiva  
+- Análise Preditiva:
   Algoritmo que sugere o melhor índice de aporte com base na liquidez atual.
 
 - Persistência de Dados  
