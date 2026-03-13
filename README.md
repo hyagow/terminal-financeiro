@@ -46,13 +46,13 @@ Siga os passos abaixo para executar o projeto localmente ou no Google Cloud Shel
    mkdir terminal-financeiro && cd terminal-financeiro
    ```
 
-### 2. Iniciar o projeto com Vite  
+### 2. Iniciar o projeto com Vite:
    ```bash
    npm create vite@latest . -- --template react  
    Selecione “No” para a opção Rolldown-Vite (Experimental)
    ```
 
-### 3. Instalar dependências  
+### 3. Instalar dependências:
    ```bash
    npm install  
    npm install lucide-react @tailwindcss/postcss postcss autoprefixer
