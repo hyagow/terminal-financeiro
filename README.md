@@ -41,7 +41,7 @@ O projeto foi desenhado para investidores que procuram uma interface sofisticada
 
 Siga os passos abaixo para executar o projeto localmente ou no Google Cloud Shell.
 
-### 1. Criar a pasta do projeto  
+### 1. Criar a pasta do projeto:
    ```bash
    mkdir terminal-financeiro && cd terminal-financeiro
    ```
@@ -58,13 +58,13 @@ Siga os passos abaixo para executar o projeto localmente ou no Google Cloud Shel
    npm install lucide-react @tailwindcss/postcss postcss autoprefixer
    ```
 
-### 4. Configurar o Tailwind CSS  
+### 4. Configurar o Tailwind CSS:
    Configure o arquivo postcss.config.js com os plugins:
    ```bash
    @tailwindcss/postcss e autoprefixer
    ```
 
-### 5. Executar em modo de desenvolvimento  
+### 5. Executar em modo de desenvolvimento:
    ```bash
    npm run dev
    ```
