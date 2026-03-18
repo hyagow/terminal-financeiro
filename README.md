@@ -69,11 +69,11 @@ Siga os passos abaixo para executar o projeto localmente ou no Google Cloud Shel
    npm run dev
    ```
 
-O projeto estará disponível por padrão em http://localhost:5173
+O projeto estará disponível por padrão em: http://localhost:5173
 
 ---
 
-## 📂 Estrutura de Ficheiros
+## 📂 Estrutura de Ficheiros:
 
 ```bash
 src/App.jsx — Código principal da aplicação e lógica de estado  
