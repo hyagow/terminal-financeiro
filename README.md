@@ -87,7 +87,7 @@ Persistência local via LocalStorage:
 
 ---
 
-## 🛡️ Segurança e Privacidade
+## 🛡️ Segurança e Privacidade:
 
 Este terminal opera inteiramente no lado do cliente (Client-side).  
 Nenhum dado financeiro é enviado para servidores externos.  
