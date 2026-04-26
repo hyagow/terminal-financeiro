@@ -1,96 +1,109 @@
-# Asset Progression Terminal 📈
 
-Asset Progression Terminal é um terminal de gestão e progressão de ativos financeiros desenvolvido com React e Tailwind CSS.  
-O projeto foi desenhado para investidores que procuram uma interface sofisticada, em estilo Neon / Terminal, para monitorizar o crescimento do capital através de uma matriz de aportes estratégicos, para sua organização capital.
+# 📈 Asset Progression Terminal
 
----
+O Asset Progression Terminal é uma aplicação de gestão e progressão de ativos financeiros desenvolvida com React e Tailwind CSS.
 
-## 🚀 Funcionalidades:
+O projeto foi pensado para investidores que buscam uma interface diferenciada — com estética Neon / Terminal — para acompanhar o crescimento do capital através de uma matriz estratégica de aportes e gestão de liquidez.
 
-- Matriz de Aportes Estratégicos:
-  Visualização em grelha para consolidação de aportes baseada em unidades de valor, com click selector.
+# 🚀 Funcionalidades
+### 📊 Matriz de Aportes Estratégicos
 
-- Gestão de Liquidez:
-  Sistema de injeção de capital para gestão do fluxo de caixa disponível.
+Visualização em formato de grelha que permite consolidar aportes com base em unidades de valor, utilizando um sistema intuitivo de seleção por clique.
 
-- Análise Preditiva:
-  Algoritmo que sugere o melhor índice de aporte com base na liquidez atual.
+### 💧 Gestão de Liquidez
 
-- Persistência de Dados:
-  Integração com LocalStorage para salvamento automático dos dados no navegador.
+Controle do fluxo de caixa com sistema de injeção de capital, permitindo melhor tomada de decisão sobre novos aportes.
 
-- Interface Adaptável:
-  Suporte completo para Dark Mode (Neon Blue) e Light Mode.
+### 🧠 Análise Preditiva
 
-- Monitorização de Performance:
-  Cálculo em tempo real da taxa de conclusão, gap de objetivo e património total.
+Algoritmo que sugere o índice ideal de aporte com base na liquidez atual disponível.
 
----
+### 💾 Persistência de Dados
 
-## 🛠️ Tecnologias Utilizadas:
+Armazenamento automático via LocalStorage, garantindo que os dados permaneçam no navegador do utilizador.
 
-- React.js — Biblioteca principal da interface  
-- Vite — Build tool ultra-rápida  
-- Tailwind CSS v4 — Framework de estilização utilitária  
-- Lucide React — Biblioteca de ícones vetoriais  
-- PostCSS — Processamento moderno de CSS  
+### 🌗 Interface Adaptável
 
----
+Suporte completo a:
 
-## 📦 Como Instalar e Rodar:
+- Dark Mode (tema Neon Blue)
+- Light Mode
+### 📉 Monitorização de Performance
 
-Siga os passos abaixo para executar o projeto localmente ou no Google Cloud Shell.
+Cálculos em tempo real incluindo:
 
-### 1. Criar a pasta do projeto:
-   ```bash
-   mkdir terminal-financeiro && cd terminal-financeiro
-   ```
+- Taxa de conclusão
+- Gap para o objetivo
+- Património total
+### 🛠️ Tecnologias Utilizadas
+- React — Interface e gestão de estado
+- Vite — Build tool rápida e moderna
+- Tailwind CSS — Estilização utilitária
+- Lucide React — Ícones vetoriais
+- PostCSS — Processamento de CSS moderno
+### 📦 Instalação e Execução
 
-### 2. Iniciar o projeto com Vite:
-   ```bash
-   npm create vite@latest . -- --template react  
-   Selecione “No” para a opção Rolldown-Vite (Experimental)
-   ```
+Siga os passos abaixo para rodar o projeto localmente:
 
-### 3. Instalar dependências:
-   ```bash
-   npm install  
-   npm install lucide-react @tailwindcss/postcss postcss autoprefixer
-   ```
-
-### 4. Configurar o Tailwind CSS:
-   Configure o arquivo postcss.config.js com os plugins:
-   ```bash
-   @tailwindcss/postcss e autoprefixer
-   ```
-
-### 5. Executar em modo de desenvolvimento:
-   ```bash
-   npm run dev
-   ```
-
-O projeto estará disponível por padrão em: http://localhost:5173
-
----
-
-## 📂 Estrutura de Ficheiros:
-
+1. Criar a pasta do projeto
 ```bash
-src/App.jsx — Código principal da aplicação e lógica de estado  
-src/index.css — Configurações globais do Tailwind  
+mkdir terminal-financeiro
+cd terminal-financeiro
+```
+2. Inicializar com Vite
+```bash
+npm create vite@latest . -- --template react
+```
+_Se solicitado, selecione "No" para a opção Rolldown-Vite (Experimental)_
+
+3. Instalar dependências
+```bash
+npm install
+npm install lucide-react @tailwindcss/postcss postcss autoprefixer
+```
+4. Configurar o Tailwind CSS
+
+No arquivo postcss.config.js, adicione os plugins:
+
+```JavaScript
+@tailwindcss/postcss
+autoprefixer
+```
+5. Executar o projeto
+```bash
+npm run dev
 ```
 
-Persistência local via LocalStorage:
+A aplicação estará disponível em:
+
+```bash
+http://localhost:5173
+```
+📂 Estrutura do Projeto
+```bash
+src/
+ ├── App.jsx        # Lógica principal e estado da aplicação
+ ├── index.css      # Configurações globais (Tailwind)
+```
+### 🔐 Armazenamento Local
+
+Os dados são persistidos no navegador através das seguintes chaves:
+
 - wp_positions
 - wp_liquidity
 - wp_target
 
----
+### 🛡️ Segurança e Privacidade
+- Aplicação 100% client-side
+- Nenhum dado financeiro é enviado para servidores externos
+- Todas as informações permanecem armazenadas localmente no navegador
+### 📌 Observações
 
-## 🛡️ Segurança e Privacidade:
+Este projeto foi desenvolvido com foco em:
 
-Este terminal opera inteiramente no lado do cliente (Client-side).  
-Nenhum dado financeiro é enviado para servidores externos.  
-Todas as informações são armazenadas localmente no navegador.
+- Organização financeira pessoal
+- Simulação de progressão patrimonial
+- Visualização estratégica de aportes
+### 👨‍💻 Autor
 
-Projeto desenvolvido para fins de organização financeira e simulação de progresso de ativos por Hyago Santos
+Desenvolvido por Hyago Santos
