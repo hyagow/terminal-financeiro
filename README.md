@@ -74,7 +74,7 @@ autoprefixer
 npm run dev
 ```
 
-A aplicação estará disponível em:
+- A aplicação estará disponível em:
 
 ```bash
 http://localhost:5173
