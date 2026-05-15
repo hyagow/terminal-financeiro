@@ -36,11 +36,13 @@ Cálculos em tempo real incluindo:
 - Gap para o objetivo
 - Património total
 ### 🛠️ Tecnologias Utilizadas
+```
 - React — Interface e gestão de estado
 - Vite — Build tool rápida e moderna
 - Tailwind CSS — Estilização utilitária
 - Lucide React — Ícones vetoriais
 - PostCSS — Processamento de CSS moderno
+```
 ### 📦 Instalação e Execução
 
 Siga os passos abaixo para rodar o projeto localmente:
