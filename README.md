@@ -25,9 +25,10 @@ Armazenamento automático via LocalStorage, garantindo que os dados permaneçam 
 ### 🌗 Interface Adaptável
 
 Suporte completo a:
-
+```
 - Dark Mode (tema Neon Blue)
 - Light Mode
+```
 ### 📉 Monitorização de Performance
 
 Cálculos em tempo real incluindo:
