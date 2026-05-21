@@ -8,11 +8,11 @@ O projeto foi pensado para investidores que buscam uma interface diferenciada �
 # 🚀 Funcionalidades
 ### 📊 Matriz de Aportes Estratégicos
 
-Visualização em formato de grelha que permite consolidar aportes com base em unidades de valor, utilizando um sistema intuitivo de seleção por clique.
+- Visualização em formato de grelha que permite consolidar aportes com base em unidades de valor, utilizando um sistema intuitivo de seleção por clique.
 
 ### 💧 Gestão de Liquidez
 
-Controle do fluxo de caixa com sistema de injeção de capital, permitindo melhor tomada de decisão sobre novos aportes.
+- Controle do fluxo de caixa com sistema de injeção de capital, permitindo melhor tomada de decisão sobre novos aportes.
 
 ### 🧠 Análise Preditiva
 
