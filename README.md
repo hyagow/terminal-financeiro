@@ -16,7 +16,7 @@ O projeto foi pensado para investidores que buscam uma interface diferenciada �
 
 ### 🧠 Análise Preditiva
 
-Algoritmo que sugere o índice ideal de aporte com base na liquidez atual disponível.
+- Algoritmo que sugere o índice ideal de aporte com base na liquidez atual disponível.
 
 ### 💾 Persistência de Dados
 
