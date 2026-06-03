@@ -20,7 +20,7 @@ O projeto foi pensado para investidores que buscam uma interface diferenciada �
 
 ### 💾 Persistência de Dados
 
-Armazenamento automático via LocalStorage, garantindo que os dados permaneçam no navegador do utilizador.
+- Armazenamento automático via LocalStorage, garantindo que os dados permaneçam no navegador do utilizador.
 
 ### 🌗 Interface Adaptável
 
