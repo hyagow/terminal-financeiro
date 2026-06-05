@@ -1,4 +1,3 @@
-
 # 📈 Asset Progression Terminal
 
 O Asset Progression Terminal é uma aplicação de gestão e progressão de ativos financeiros desenvolvida com React e Tailwind CSS.
@@ -90,7 +89,7 @@ src/
 ```
 ### 🔐 Armazenamento Local
 
-Os dados são persistidos no navegador através das seguintes chaves:
+- Os dados são persistidos no navegador através das seguintes chaves:
 
 - wp_positions
 - wp_liquidity
