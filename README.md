@@ -108,5 +108,6 @@ Este projeto foi desenvolvido com foco em:
 - Visualização estratégica de aportes
 ### 👨‍💻 Autor
 
-```Desenvolvido por Hyago Santos
+```
+>Desenvolvido por Hyago Santos
 ```
