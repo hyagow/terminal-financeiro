@@ -109,5 +109,5 @@ Este projeto foi desenvolvido com foco em:
 ### 👨‍💻 Autor
 
 ```
->Desenvolvido por Hyago Santos
+Desenvolvido por Hyago Santos
 ```
