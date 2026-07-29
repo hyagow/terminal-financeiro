@@ -65,7 +65,7 @@ npm install lucide-react @tailwindcss/postcss postcss autoprefixer
 ```
 4. Configurar o Tailwind CSS
 
-No arquivo postcss.config.js, adicione os plugins:
+- No arquivo postcss.config.js, adicione os plugins:
 
 ```JavaScript
 @tailwindcss/postcss
