@@ -101,7 +101,7 @@ src/
 - Todas as informações permanecem armazenadas localmente no navegador
 ### 📌 Observações
 
-Este projeto foi desenvolvido com foco em:
+*Este projeto foi desenvolvido com foco em:*
 
 - Organização financeira pessoal
 - Simulação de progressão patrimonial
