@@ -30,7 +30,7 @@ Suporte completo a:
 ```
 ### 📉 Monitorização de Performance
 
-Cálculos em tempo real incluindo:
+`Cálculos em tempo real incluindo:`
 
 - Taxa de conclusão
 - Gap para o objetivo
